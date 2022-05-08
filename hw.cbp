@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="hw" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/hw" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="liballeg.a" />
+					<Add option="liballeg_s.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/hw" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/bonus.h" />
+		<Unit filename="include/bullet.h" />
+		<Unit filename="include/enemy.h" />
+		<Unit filename="include/engine.h" />
+		<Unit filename="include/errors.h" />
+		<Unit filename="include/game_gui.h" />
+		<Unit filename="include/highscore.h" />
+		<Unit filename="include/main_menu.h" />
+		<Unit filename="include/player.h" />
+		<Unit filename="include/settings.h" />
+		<Unit filename="include/timer.h" />
+		<Unit filename="lib/bonus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/bullet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/enemy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/engine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/errors.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/game_gui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/highscore.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/main_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/player.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/settings.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

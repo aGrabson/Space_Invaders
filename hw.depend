@@ -1,0 +1,1713 @@
+# depslib dependency file v1.0
+1509310294 source:e:\users\biuro\desktop\allegro\helloword\hw\main.c
+	<allegro.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\errno.h
+	<_mingw.h>
+
+1461095892 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\_mingw.h
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\limits.h
+	<_mingw.h>
+
+1461095892 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1461095892 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1461095892 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alplatf.h
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\dir.h
+	<io.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1461095893 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\fcntl.h
+	<_mingw.h>
+	<io.h>
+
+1461095892 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1461095892 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\stdint.h
+	<stddef.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\getopt.h
+	<_mingw.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\conio.h
+	<_mingw.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\direct.h
+	<_mingw.h>
+	<stddef.h>
+	<io.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alosxcfg.h
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1461095892 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1461095891 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\unicode.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\config.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\debug.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\mouse.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\timer.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\keyboard.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\joystick.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\palette.h
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fixed.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\al386gcc.h
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\al386vc.h
+
+1509309813 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\al386wat.h
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\color.inl
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\compiled.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\text.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\font.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\gui.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\digi.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\stream.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\midi.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\file.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\lzss.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\datafile.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\matrix.inl
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\quat.h
+	"base.h"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\3dmaths.inl
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\alcompat.h
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1509309812 e:\users\biuro\desktop\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\fix.inl
+
+1617195409 source:c:\space invaders\allegro\helloword\hw\main.c
+	"include/engine.h"
+	<stdio.h>
+
+1616491193 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1616491204 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1616491195 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\errno.h
+	<_mingw.h>
+
+1616491192 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\_mingw.h
+
+1616491196 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\limits.h
+	<_mingw.h>
+
+1616491202 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1616491202 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1616491202 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alplatf.h
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1616491194 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\dir.h
+	<io.h>
+
+1616491195 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1616491213 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1616491195 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\fcntl.h
+	<_mingw.h>
+	<io.h>
+
+1616491202 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+
+1616491199 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1616491201 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\stdint.h
+	<stddef.h>
+
+1616491195 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\getopt.h
+	<_mingw.h>
+
+1616491209 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1616491193 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\conio.h
+	<_mingw.h>
+
+1616491194 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\direct.h
+	<_mingw.h>
+	<stddef.h>
+	<io.h>
+
+1616491197 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alosxcfg.h
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1616491202 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1616491209 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1616491195 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\unicode.h
+	"base.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\config.h
+	"base.h"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\debug.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\mouse.h
+	"base.h"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\timer.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\keyboard.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\joystick.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\palette.h
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1616491204 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fixed.h
+	"base.h"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\al386gcc.h
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\al386vc.h
+
+1616491208 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\platform\al386wat.h
+
+1616491204 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\color.inl
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\compiled.h
+	"base.h"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\text.h
+	"base.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\font.h
+	"base.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\gui.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\digi.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\stream.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\midi.h
+	"base.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\file.h
+	"base.h"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\lzss.h
+	"base.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\datafile.h
+	"base.h"
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\matrix.inl
+
+1616491206 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\quat.h
+	"base.h"
+
+1616491204 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\3dmaths.inl
+
+1616491204 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\alcompat.h
+
+1616491205 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1616491207 c:\space invaders\allegro\codeblocks-16.01mingw-nosetup\mingw\include\allegro\inline\fix.inl
+
+1616488296 c:\space invaders\allegro\helloword\hw\test.h
+	<allegro.h>
+
+1617174197 c:\space invaders\allegro\helloword\hw\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"main_menu.h"
+	"settings.h"
+
+1618136269 source:c:\space invaders\allegro\helloword\hw\lib\engine.c
+	"../include/engine.h"
+
+1618136624 c:\space invaders\allegro\helloword\hw\include\player.h
+	<allegro.h>
+
+1618136407 source:c:\space invaders\allegro\helloword\hw\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+
+1616932918 source:c:\space invaders\allegro\helloword\hw\lib\timer.c
+	"../include/timer.h"
+
+1618136624 c:\space invaders\allegro\helloword\hw\include\timer.h
+	<allegro.h>
+
+1618136776 c:\space invaders\allegro\helloword\hw\include\bullet.h
+	<stdbool.h>
+
+1617092709 source:c:\space invaders\allegro\helloword\hw\lib\bullet.c
+	"../include/bullet.h"
+
+1618136718 c:\space invaders\allegro\helloword\hw\include\errors.h
+	<allegro.h>
+
+1618136709 source:c:\space invaders\allegro\helloword\hw\lib\errors.c
+	"../include/errors.h"
+
+1618136624 c:\space invaders\allegro\helloword\hw\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+
+1617174968 source:c:\space invaders\allegro\helloword\hw\lib\main_menu.c
+	"../include/main_menu.h"
+
+1618136624 c:\space invaders\allegro\helloword\hw\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+
+1617196891 source:c:\space invaders\allegro\helloword\hw\lib\settings.c
+	"../include/settings.h"
+
+1619357352 source:c:\space invaders\allegro\spac\hw\lib\engine.c
+	"../include/engine.h"
+
+1619350144 c:\space invaders\allegro\spac\hw\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+
+1619357581 c:\space invaders\allegro\spac\hw\include\timer.h
+	<allegro.h>
+
+1618749213 c:\space invaders\allegro\spac\hw\include\player.h
+	<allegro.h>
+
+1619179366 c:\space invaders\allegro\spac\hw\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619358712 c:\space invaders\allegro\spac\hw\include\errors.h
+	<allegro.h>
+
+1619179368 c:\space invaders\allegro\spac\hw\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619179414 c:\space invaders\allegro\spac\hw\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619357353 source:c:\space invaders\allegro\spac\hw\lib\main_menu.c
+	"../include/main_menu.h"
+
+1619357353 source:c:\space invaders\allegro\spac\hw\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+
+1619357353 source:c:\space invaders\allegro\spac\hw\lib\settings.c
+	"../include/settings.h"
+
+1619357353 source:c:\space invaders\allegro\spac\hw\lib\timer.c
+	"../include/timer.h"
+
+1619179144 source:c:\space invaders\allegro\spac\hw\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1619357653 source:c:\space invaders\allegro\spac\hw\lib\bullet.c
+	"../include/bullet.h"
+
+1619357353 source:c:\space invaders\allegro\spac\hw\lib\errors.c
+	"../include/errors.h"
+
+1619350144 c:\space invaders\allegro\spac\hw\include\enemy.h
+	<allegro.h>
+
+1619357353 source:c:\space invaders\allegro\spac\hw\lib\enemy.c
+	"../include/enemy.h"
+
+1619423691 source:c:\users\karol\onedrive\pulpit\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1619423691 c:\users\karol\onedrive\pulpit\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619362353 c:\users\karol\onedrive\pulpit\space\include\errors.h
+	<allegro.h>
+
+1619425749 source:c:\users\karol\onedrive\pulpit\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1619425773 c:\users\karol\onedrive\pulpit\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"bullet.h"
+
+1619424399 source:c:\users\karol\onedrive\pulpit\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1619361563 c:\users\karol\onedrive\pulpit\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+
+1619357582 c:\users\karol\onedrive\pulpit\space\include\timer.h
+	<allegro.h>
+
+1618749214 c:\users\karol\onedrive\pulpit\space\include\player.h
+	<allegro.h>
+
+1619179370 c:\users\karol\onedrive\pulpit\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619179416 c:\users\karol\onedrive\pulpit\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619371014 source:c:\users\karol\onedrive\pulpit\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+
+1619361809 source:c:\users\karol\onedrive\pulpit\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1619362342 source:c:\users\karol\onedrive\pulpit\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1619361809 source:c:\users\karol\onedrive\pulpit\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1619361809 source:c:\users\karol\onedrive\pulpit\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1619424478 source:c:\users\karol\onedrive\pulpit\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1621321803 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1619423691 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621321673 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\errors.h
+	<allegro.h>
+
+1621414612 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1621412502 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+	"game_gui.h"
+
+1619357582 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\timer.h
+	<allegro.h>
+
+1621414986 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\player.h
+	<allegro.h>
+	"bullet.h"
+	"enemy.h"
+
+1621410621 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer.h"
+	"bullet.h"
+	<stdlib.h>
+	<time.h>
+
+1619179370 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619179416 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621321506 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+	"../include/engine.h"
+
+1621321784 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1621415059 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1621321784 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1619361809 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1619989008 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1621412435 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1621412549 c:\users\karol\onedrive\pulpit\projekt  programowanie\space\include\game_gui.h
+	<allegro.h>
+	<stdio.h>
+	<stdbool.h>
+
+1621412549 source:c:\users\karol\onedrive\pulpit\projekt  programowanie\space\lib\game_gui.c
+	"../include/game_gui.h"
+
+1621431862 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1621430573 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621321674 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\errors.h
+	<allegro.h>
+
+1621431281 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1621422314 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer.h"
+	"bullet.h"
+	<stdlib.h>
+	<time.h>
+
+1619357582 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\timer.h
+	<allegro.h>
+
+1621431281 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1621420793 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+	"game_gui.h"
+	"bonus.h"
+
+1621427406 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\player.h
+	<allegro.h>
+	"bullet.h"
+	"enemy.h"
+
+1619179370 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1619179416 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621412550 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\game_gui.h
+	<allegro.h>
+	<stdio.h>
+	<stdbool.h>
+
+1621321508 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+	"../include/engine.h"
+
+1621419024 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\game_gui.c
+	"../include/game_gui.h"
+
+1621321786 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1621321786 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1619361810 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1619989010 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1621427779 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1621429859 c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\include\bonus.h
+	<allegro.h>
+	<stdbool.h>
+
+1621430475 source:c:\users\gonzur\desktop\podstawy programowania 2\projekt\space\lib\bonus.c
+	"../include/bonus.h"
+	<stdio.h>
+	<time.h>
+
+1621435639 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer.h"
+	"bullet.h"
+	<stdlib.h>
+	<time.h>
+
+1621432487 c:\users\karol\onedrive\pulpit\virus od artura\space\include\timer.h
+	<allegro.h>
+
+1621433964 c:\users\karol\onedrive\pulpit\virus od artura\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\errors.h
+	<allegro.h>
+
+1621432487 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+	"game_gui.h"
+	"bonus.h"
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\player.h
+	<allegro.h>
+	"bullet.h"
+	"enemy.h"
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\game_gui.h
+	<allegro.h>
+	<stdio.h>
+	<stdbool.h>
+
+1621432486 c:\users\karol\onedrive\pulpit\virus od artura\space\include\bonus.h
+	<allegro.h>
+	<stdbool.h>
+
+1621432487 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+	"../include/engine.h"
+
+1621432487 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\game_gui.c
+	"../include/game_gui.h"
+
+1621432487 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1621433756 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1621432487 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1621432487 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1621432485 source:c:\users\karol\onedrive\pulpit\virus od artura\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1621435021 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1621432487 source:c:\users\karol\onedrive\pulpit\virus od artura\space\lib\bonus.c
+	"../include/bonus.h"
+	<stdio.h>
+	<time.h>
+
+1621462340 source:c:\users\gonzur\desktop\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1621457130 c:\users\gonzur\desktop\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621432488 c:\users\gonzur\desktop\space\include\errors.h
+	<allegro.h>
+
+1621435640 source:c:\users\gonzur\desktop\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1621457127 c:\users\gonzur\desktop\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer.h"
+	"bullet.h"
+	<stdlib.h>
+	<time.h>
+
+1621432488 c:\users\gonzur\desktop\space\include\timer.h
+	<allegro.h>
+
+1621459861 source:c:\users\gonzur\desktop\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1621457569 c:\users\gonzur\desktop\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+	"game_gui.h"
+	"bonus.h"
+	"highscore.h"
+
+1621432488 c:\users\gonzur\desktop\space\include\player.h
+	<allegro.h>
+	"bullet.h"
+	"enemy.h"
+
+1621432488 c:\users\gonzur\desktop\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621455169 c:\users\gonzur\desktop\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621457097 c:\users\gonzur\desktop\space\include\game_gui.h
+	<allegro.h>
+	<stdio.h>
+	<stdbool.h>
+
+1621447496 c:\users\gonzur\desktop\space\include\bonus.h
+	<allegro.h>
+	<stdbool.h>
+
+1621432488 source:c:\users\gonzur\desktop\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+	"../include/engine.h"
+
+1621432488 source:c:\users\gonzur\desktop\space\lib\game_gui.c
+	"../include/game_gui.h"
+
+1621432488 source:c:\users\gonzur\desktop\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1621454284 source:c:\users\gonzur\desktop\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1621456559 source:c:\users\gonzur\desktop\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1621432488 source:c:\users\gonzur\desktop\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1621455919 source:c:\users\gonzur\desktop\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1621458899 source:c:\users\gonzur\desktop\space\lib\bonus.c
+	"../include/bonus.h"
+	<stdio.h>
+	<time.h>
+
+1621462632 source:c:\users\gonzur\desktop\space\lib\highscore.c
+	"../include/highscore.h"
+	<allegro.h>
+
+1621459853 c:\users\gonzur\desktop\space\include\highscore.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+	<stdio.h>
+	"game_gui.h"
+
+1621499588 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\bonus.c
+	"../include/bonus.h"
+	<stdio.h>
+	<time.h>
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\bonus.h
+	<allegro.h>
+	<stdbool.h>
+
+1621499462 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\errors.h
+	<allegro.h>
+
+1621500535 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer.h"
+	"bullet.h"
+	<stdlib.h>
+	<time.h>
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\timer.h
+	<allegro.h>
+
+1621495407 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+	"game_gui.h"
+	"bonus.h"
+	"highscore.h"
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\player.h
+	<allegro.h>
+	"bullet.h"
+	"enemy.h"
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\game_gui.h
+	<allegro.h>
+	<stdio.h>
+	<stdbool.h>
+
+1621493178 c:\users\karol\onedrive\pulpit\space invaders 20.05\space\include\highscore.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+	<stdio.h>
+	"game_gui.h"
+
+1621493178 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+	"../include/engine.h"
+
+1621493178 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\game_gui.c
+	"../include/game_gui.h"
+
+1621493178 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1621499306 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1621493178 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1621493178 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1621493177 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1621498845 source:c:\users\karol\onedrive\pulpit\space invaders 20.05\space\lib\highscore.c
+	"../include/highscore.h"
+	<allegro.h>
+
+1621548809 source:c:\users\gonzur\desktop\wip\space\lib\bonus.c
+	"../include/bonus.h"
+	<stdio.h>
+	<time.h>
+
+1621493180 c:\users\gonzur\desktop\wip\space\include\bonus.h
+	<allegro.h>
+	<stdbool.h>
+
+1621600102 source:c:\users\gonzur\desktop\wip\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1621530002 c:\users\gonzur\desktop\wip\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621601707 c:\users\gonzur\desktop\wip\space\include\errors.h
+	<allegro.h>
+
+1621601521 source:c:\users\gonzur\desktop\wip\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1621546239 c:\users\gonzur\desktop\wip\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer.h"
+	"bullet.h"
+	<stdlib.h>
+	<time.h>
+	"bonus.h"
+
+1621493180 c:\users\gonzur\desktop\wip\space\include\timer.h
+	<allegro.h>
+
+1621548785 source:c:\users\gonzur\desktop\wip\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1621543972 c:\users\gonzur\desktop\wip\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+	"game_gui.h"
+	"bonus.h"
+	"highscore.h"
+
+1621529335 c:\users\gonzur\desktop\wip\space\include\player.h
+	<allegro.h>
+	"bullet.h"
+	"enemy.h"
+
+1621536983 c:\users\gonzur\desktop\wip\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621534344 c:\users\gonzur\desktop\wip\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+	"engine.h"
+
+1621601901 c:\users\gonzur\desktop\wip\space\include\game_gui.h
+	<allegro.h>
+	<stdio.h>
+	<stdbool.h>
+	"errors.h"
+
+1621532082 c:\users\gonzur\desktop\wip\space\include\highscore.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+	<stdio.h>
+	"game_gui.h"
+
+1621530002 source:c:\users\gonzur\desktop\wip\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+	"../include/engine.h"
+
+1621602017 source:c:\users\gonzur\desktop\wip\space\lib\game_gui.c
+	"../include/game_gui.h"
+
+1621547082 source:c:\users\gonzur\desktop\wip\space\lib\highscore.c
+	"../include/highscore.h"
+	<allegro.h>
+
+1621601743 source:c:\users\gonzur\desktop\wip\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1621547037 source:c:\users\gonzur\desktop\wip\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1621545304 source:c:\users\gonzur\desktop\wip\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1621493180 source:c:\users\gonzur\desktop\wip\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1621493178 source:c:\users\gonzur\desktop\wip\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
+1621691115 source:c:\users\gonzur\desktop\pracowanko\space\lib\bonus.c
+	"../include/bonus.h"
+	<stdio.h>
+	<time.h>
+
+1621688692 c:\users\gonzur\desktop\pracowanko\space\include\bonus.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621686938 source:c:\users\gonzur\desktop\pracowanko\space\lib\bullet.c
+	"../include/bullet.h"
+	<allegro.h>
+
+1621686375 c:\users\gonzur\desktop\pracowanko\space\include\bullet.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621688851 c:\users\gonzur\desktop\pracowanko\space\include\errors.h
+	<allegro.h>
+
+1621693179 source:c:\users\gonzur\desktop\pracowanko\space\lib\enemy.c
+	"../include/enemy.h"
+	<allegro.h>
+
+1621691139 c:\users\gonzur\desktop\pracowanko\space\include\enemy.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer.h"
+	"bullet.h"
+	<stdlib.h>
+	<time.h>
+	"bonus.h"
+	"errors.h"
+
+1621493180 c:\users\gonzur\desktop\pracowanko\space\include\timer.h
+	<allegro.h>
+
+1621687296 source:c:\users\gonzur\desktop\pracowanko\space\lib\engine.c
+	"../include/engine.h"
+	<allegro.h>
+
+1621686790 c:\users\gonzur\desktop\pracowanko\space\include\engine.h
+	<allegro.h>
+	<stdbool.h>
+	"timer.h"
+	"player.h"
+	"bullet.h"
+	"errors.h"
+	"enemy.h"
+	"main_menu.h"
+	"settings.h"
+	"game_gui.h"
+	"bonus.h"
+	"highscore.h"
+
+1621687739 c:\users\gonzur\desktop\pracowanko\space\include\player.h
+	<allegro.h>
+	"bullet.h"
+	"enemy.h"
+	"errors.h"
+
+1621536983 c:\users\gonzur\desktop\pracowanko\space\include\main_menu.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+
+1621534344 c:\users\gonzur\desktop\pracowanko\space\include\settings.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+	"engine.h"
+
+1621685806 c:\users\gonzur\desktop\pracowanko\space\include\game_gui.h
+	<allegro.h>
+	<stdio.h>
+	<stdbool.h>
+	"errors.h"
+
+1621689756 c:\users\gonzur\desktop\pracowanko\space\include\highscore.h
+	<allegro.h>
+	<stdbool.h>
+	"errors.h"
+	<stdio.h>
+	"game_gui.h"
+
+1621688805 source:c:\users\gonzur\desktop\pracowanko\space\lib\errors.c
+	"../include/errors.h"
+	<allegro.h>
+	"../include/engine.h"
+
+1621686253 source:c:\users\gonzur\desktop\pracowanko\space\lib\game_gui.c
+	"../include/game_gui.h"
+
+1621690020 source:c:\users\gonzur\desktop\pracowanko\space\lib\highscore.c
+	"../include/highscore.h"
+	<allegro.h>
+
+1621685122 source:c:\users\gonzur\desktop\pracowanko\space\lib\main_menu.c
+	"../include/main_menu.h"
+	<allegro.h>
+
+1621688056 source:c:\users\gonzur\desktop\pracowanko\space\lib\player.c
+	"../include/player.h"
+	<stdio.h>
+	<allegro.h>
+
+1621689863 source:c:\users\gonzur\desktop\pracowanko\space\lib\settings.c
+	"../include/settings.h"
+	<allegro.h>
+
+1621493180 source:c:\users\gonzur\desktop\pracowanko\space\lib\timer.c
+	"../include/timer.h"
+	<allegro.h>
+
+1621493178 source:c:\users\gonzur\desktop\pracowanko\space\main.c
+	"include/engine.h"
+	<stdio.h>
+	<allegro.h>
+
